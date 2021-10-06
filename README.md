@@ -1,7 +1,7 @@
 # Dino-game
 Dino game implemented using Html Css and JS
 [Click to Play](https://gdscrgpv.github.io/Dino-game/)
-> Just for learning purposes
+> Making the chrome dinosour (no internet connection) game.
 
 
 
