@@ -1,6 +1,6 @@
 # Dino-game
 Dino game implemented using Html Css and JS
-[Click to Play]()
+[Click to Play](https://gdscrgpv.github.io/Dino-game/)
 > Just for learning purposes
 
 
